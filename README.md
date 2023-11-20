@@ -6,6 +6,8 @@
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=viniciuschapula&show_icons=true&theme=github_dark_dimmed)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuschapula&size_weight=0.5&count_weight=0.5)
+
 ## My technologies
 
 <div style="display: incline_block"><br/>
@@ -16,3 +18,5 @@
     <img align="center" alt="hmtml5" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img align="center" alt="hmtml5" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
 </div>
+
+## My principal projects
